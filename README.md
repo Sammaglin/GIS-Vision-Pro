@@ -45,7 +45,7 @@ A professional desktop application for advanced GIS topology analysis, correctio
 ### Quick Install (Recommended)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/geovision-pro.git
+git clone https://github.com/Sammaglin/geovision-pro.git
 cd geovision-pro
 
 # Create virtual environment
